@@ -1,2 +1,5 @@
 add one line  in hanu.txt
 add second line in hanu.txt
+add thrid line in hanu.txt
+add fourth line in hanu.txt
+
